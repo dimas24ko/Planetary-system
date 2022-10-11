@@ -1,7 +1,10 @@
 {
     "name": "PlanetarySystem",
     "rootNamespace": "PlanetarySystem",
-    "references": [],
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
